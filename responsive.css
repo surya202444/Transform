@@ -1,7 +1,7 @@
-@media screen and (max-width:430px){
+@media screen and (max-width:400px){
 #home{
-    width: 430px;
-    height: 100%;
+    width: 400px;
+    
     
 }
 #image{

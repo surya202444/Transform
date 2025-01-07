@@ -1,7 +1,9 @@
 
 .container1{
     position: absolute;
-    margin-left: 100px;
+    padding: 0;
+    margin: 0;
+    
     margin-right: 100px;
     width: 100%;
     border-radius: 10px;
@@ -9,7 +11,12 @@
     height: 80%px;
 
 }
-
+.container{ margin: 0;
+padding: 0;
+}
+.box{
+    margin-left: 350px;
+}
 .img{
     margin-top: 90px;
     height: 400px;
@@ -17,6 +24,7 @@
     transition-duration: 0.3s;
     border-radius: 10px;
     box-shadow: 0 10px 10px;
+    
 
 }
 
