@@ -4,18 +4,18 @@
     padding: 0;
     margin: 0;
     
-    margin-right: 100px;
+    
     width: 100%;
     border-radius: 10px;
     box-shadow: 0 10px 10px;
     height: 80%px;
 
 }
-.container{ margin: 0;
+.container1{ margin: 0;
 padding: 0;
 }
 .box{
-    margin-left: 350px;
+    margin-left: 50px;
 }
 .img{
     margin-top: 90px;
