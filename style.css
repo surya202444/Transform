@@ -75,6 +75,15 @@ header:hover{
     transform: matrix(1,-0.5,0.5,0.4,0.5,0.7);
     transition: 2s;
 }
+
+
+.img7:hover{
+    transform: rotateX(360deg) rotateY(180deg);
+}
+
+.img8:hover{
+    transform: translate3d(20px, -10px, 30px) rotate3d(1, 0.5, 0, 140deg);
+}
 .text{
     color: red;
     font-size: 30px;
@@ -112,3 +121,11 @@ footer{
     font-size: 2rem;
     color: black;
 }
+.up_arrow{ background-image: linear-gradient(to bottom right,yellow,red);
+    float:right;
+    margin: 20px 10px 5px opx;
+    }
+    
+    html{
+        scroll-behavior: smooth;
+    }
